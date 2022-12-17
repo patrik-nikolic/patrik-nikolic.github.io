@@ -53,7 +53,7 @@ The list of my thus far scientific publications can be found on [Web of Science]
 
 ## Private Industry Career
 
-### Translational Research at Fidelta
+### Translational Research Scientist at Fidelta
 
 A cornerstone of my career has been the scientist position at the Translational Research and Alliances Department at [Fidelta Ltd.](https://www.fidelta.eu/). With Fidelta being a pharmaceutical contract research organization (CRO), I had the opportunity to work on projects for a large number of originator pharmaceutical companies. My position was designed as a scientist with a **high-level overview** of all the projects Fidelta had at the time, where I provided support to the project management team in **preparing**, **visualizing**, and **analyzing data** on integrated drug discovery projects.
 
