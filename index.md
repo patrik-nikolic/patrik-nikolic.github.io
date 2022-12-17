@@ -5,19 +5,19 @@ title: About
 
 Hi. I'm **Patrik Nikolić**.
 
-My scientific research and interest involve:
+My scientific research and interest involve the following:
 
 - drug discovery using computational chemistry with emphasis on **high-throughput virtual screening protocols** and **molecular dynamics simulations**
 - drug development
 - translational research
 
-For further information and formal introduction, please download [my résumé](files/resume.pdf) or follow me on [LinkedIn](https://www.linkedin.com/in/patrik-nikolic-8aa48310a) and [GitHub](https://github.com/patrik-nikolic).
+For further information and a formal introduction, please download [my résumé](files/resume.pdf) or follow me on [LinkedIn](https://www.linkedin.com/in/patrik-nikolic-8aa48310a) and [GitHub](https://github.com/patrik-nikolic).
 
 ## Scientific Research
 
 ### Biomolecular Structure and Function Group
 
-In 2013, as a student of medicinal chemistry at [University of Rijeka](https://uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/), I started working in [Dr. Željko Svedružić](https://svedruziclab.github.io/principal-investigator.html)'s [Biomolecular Structure and Function Group and Group (BioSFGroup)](https://svedruziclab.github.io/group.html) on [the development of mechanism-based inhibitors of human DNA methyltransferase Dnmt1](https://svedruziclab.github.io/research.html#projects). While I have primarily used [GROMACS](https://www.gromacs.org/) and [PyMOL](https://pymol.org/) in my research, the group relied heavily on software for both research and [teaching](https://svedruziclab.github.io/teaching.html) and used [a number of other packages as well](https://svedruziclab.github.io/software.html). I obtained my master's degree in medicinal chemistry in 2015 by defending the thesis titled *In silico optimization of the first DNA-independent mechanism-based inhibitors of mammalian DNA methyltransferase Dnmt1*. Resulting from this work, BioSFGroup later published the book chapter:
+In 2013, as a medicinal chemistry student at the [University of Rijeka](https://uniri.hr/) [Department of Biotechnology](https://www.biotech.uniri.hr/), I started working in [Dr. Željko Svedružić](https://svedruziclab.github.io/principal-investigator.html)'s [Biomolecular Structure and Function Group and Group (BioSFGroup)](https://svedruziclab.github.io/group.html) on [the development of mechanism-based inhibitors of human DNA methyltransferase Dnmt1](https://svedruziclab.github.io/research.html#projects). While I have primarily used [GROMACS](https://www.gromacs.org/) and [PyMOL](https://pymol.org/) in my research, the group relied heavily on software for research and [teaching](https://svedruziclab.github.io/teaching.html) and used [several other packages](https://svedruziclab.github.io/software.html). I obtained my master’s degree in medicinal chemistry in 2015 by defending the thesis titled *In silico optimization of the first DNA-independent mechanism-based inhibitors of mammalian DNA methyltransferase Dnmt1*. Resulting from this work, BioSFGroup later published the book chapter:
 
 - **Nikolić, P.**, Miletić, V., Odorčić, I. & Svedružić, Ž. M. [Chapter 5 - In Silico Optimization of the First DNA-Independent Mechanism-Based Inhibitor of Mammalian DNA Methyltransferase DNMT1.](https://www.sciencedirect.com/science/article/pii/B9780128028087000058) in Epi-Informatics (ed. Medina-Franco, J. L.) 113–153 (Academic Press, 2016). [doi:10.1016/B978-0-12-802808-7.00005-8](https://doi.org/10.1371/10.1016/B978-0-12-802808-7.00005-8).
 
@@ -27,9 +27,9 @@ The group also published the journal paper:
 
 ### RxTx Research
 
-In 2019, after [Dr. Vedran Miletić](https://vedran.miletic.net/) returned from his postdoctoral research in computational biophysics at [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/) in [Molecular Biomechanics (MBM) group](https://www.h-its.org/research/mbm/) to become a Senior Lecturer at [University of Rijeka](https://uniri.hr/) [Department of Informatics](https://www.inf.uniri.hr/), we jointly started [RxTx](https://www.rxtx.tech/), where I entered as a translational research scientist. Our goal was to [advance pharmaceutical drug research by improving the scientific software behind the scenes](https://www.rxtx.tech/blog/rxtx-vision-and-outlook), most importantly the high-throughput virtual screening engine [RxDock](https://rxdock.gitlab.io/). We also started using [RDKit](https://rdkit.org/) for data pre-processing at the same time.
+In 2019, [Dr. Vedran Miletić](https://vedran.miletic.net/) returned from his postdoctoral research in computational biophysics at [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/) in [Molecular Biomechanics (MBM) group](https://www.h-its.org/research/mbm/) to become a Senior Lecturer at the [University of Rijeka](https://uniri.hr/) [Department of Informatics](https://www.inf.uniri.hr/). We jointly started [RxTx](https://www.rxtx.tech/), where I entered as a translational research scientist. Our goal was to [advance pharmaceutical drug research by improving the scientific software behind the scenes](https://www.rxtx.tech/blog/rxtx-vision-and-outlook), most notably the high-throughput virtual screening engine [RxDock](https://rxdock.gitlab.io/). We also started using [RDKit](https://rdkit.org/) for data pre-processing at the same time.
 
-By then, the computational resources became more available, drivers necessary for using those resources more mature, and research topics more complex. Thus, the volume of data comprising research inputs and outputs grew exponentially so we have started to employ end-to-end data science solutions, specifically [KNIME](https://www.knime.com/) for workflow automation and data analysis.
+By then, the computational resources became more available, drivers necessary for using those resources more mature, and research topics more complex. Thus, the volume of data comprising research inputs and outputs grew exponentially, so we have employed end-to-end data science solutions, specifically [KNIME](https://www.knime.com/) for workflow automation and data analysis.
 
 We continued the collaboration with BioSFGroup and gave a conference presentation:
 
@@ -43,40 +43,40 @@ We also opened [a number of new collaborations with other groups worldwide](http
 
 ### Group for Applications and Services on Exascale Research Infrastructure
 
-In Q4 2021, [Dr. Vedran Miletić](https://vedran.miletic.net/) was promoted to Assistant Professor at [Faculty of Informatics and Digital Technologies](https://www.inf.uniri.hr/), [University of Rijeka](https://uniri.hr/) and formed [Group for Applications and Services on Exascale Research Infrastructure (GASERI)](https://group.miletic.net/en/). I continued the collaboration with GASERI as [an external partner](https://group.miletic.net/en/people/).
+In Q4 2021, [Dr. Vedran Miletić](https://vedran.miletic.net/) was promoted to Assistant Professor at the [Faculty of Informatics and Digital Technologies](https://www.inf.uniri.hr/), [University of Rijeka](https://uniri.hr/), and formed [Group for Applications and Services on Exascale Research Infrastructure (GASERI)](https://group.miletic.net/en/). I continued the collaboration with GASERI as [an external partner](https://group.miletic.net/en/people/).
 
-With the recent advent of [artificial intelligence, machine learning, neural networks, and deep learning](https://www.ibm.com/cloud/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks) in computational biochemistry, I became increasingly aware that the methods applied in my previous and current research are just not enough anymore. For example, [Greg Landrum](https://github.com/greglandrum), [the owner of T5 Informatics](http://www.t5informatics.com/) and [the author of RDKit](https://rdkit.org/docs/Overview.html), has been [blogging about machine learning using RDKit](https://greglandrum.github.io/rdkit-blog/) [already for some years](https://rdkit.blogspot.com/).
+With the ever-increasing applications of [artificial intelligence, machine learning, neural networks, and deep learning](https://www.ibm.com/cloud/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks) in computational biochemistry, I became increasingly aware that more than the methods applied in my previous and current research is needed. For example, [Greg Landrum](https://github.com/greglandrum), [the owner of T5 Informatics](http://www.t5informatics.com/) and [the author of RDKit](https://rdkit.org/docs/Overview.html), has already been [blogging about machine learning using RDKit](https://greglandrum.github.io/rdkit-blog/) [for some years](https://rdkit.blogspot.com/).
 
-My goal is to bring the artificial intelligence methods in computational biochemistry to GASERI in order to stay relevant in the long term and be able to tackle any challenge that is interesting both to industry and academia. However, I am aware that such an endeavor is a full-time proposition and I am looking for a way to commit myself full-time to such a research project.
+My goal is to bring medicinal chemistry know-how of applications of artificial intelligence methods to GASERI to stay relevant in the long term and be able to tackle any challenge that is interesting both to industry and academia.
 
 The list of my thus far scientific publications can be found on [Web of Science](https://www.webofscience.com/wos/author/record/28345853) and [Google Scholar](https://scholar.google.com/citations?user=4sYRL_kAAAAJ).
 
-## Career in Life Science Industry
+## Private Industry Career
 
 ### Translational Research at Fidelta
 
-A cornerstone of my career has been the position of scientist at Translational Research and Alliances Department at [Fidelta Ltd.](https://www.fidelta.eu/). With Fidelta being a pharmaceutical contract research organization (CRO), I had the opportunity to work on projects for a large number of originator pharmaceutical companies. My position was designed as a scientist with a **high-level overview** of all the projects Fidelta had at the time where I provided support to the project management team in **preparing**, **visualizing**, and **analyzing data** on integrated drug discovery projects.
+A cornerstone of my career has been the scientist position at the Translational Research and Alliances Department at [Fidelta Ltd.](https://www.fidelta.eu/). With Fidelta being a pharmaceutical contract research organization (CRO), I had the opportunity to work on projects for a large number of originator pharmaceutical companies. My position was designed as a scientist with a **high-level overview** of all the projects Fidelta had at the time, where I provided support to the project management team in **preparing**, **visualizing**, and **analyzing data** on integrated drug discovery projects.
 
-The experience and knowledge I gained with my mentor [Vesna Eraković Haber, MD, PhD, MBA](https://www.fidelta.eu/about-us/) of the pharmaceutical industry as a whole proved to be invaluable. My duties also included **setting up**, **monitoring**, and **closing collaborations** with clinical and academic institutions. The drug development projects were mostly focused in **oncology**, **pulmonology**, and **gastroenterology** fields.
+The experience and knowledge I gained with my mentor [Vesna Eraković Haber, MD, Ph.D., MBA](https://www.fidelta.eu/about-us/) of the pharmaceutical industry as a whole proved invaluable. My duties included **setting up**, **monitoring**, and **closing collaborations** with clinical and academic institutions. The primary focus of development projects was in the **oncology**, **pulmonology**, and **gastroenterology** fields.
 
-I was also working as a "regular" scientist in a wet lab, mostly working on **human tissue samples preparation and handling** for further tests (ELISA, flow cytometry, immunohistochemistry, etc.).
+I also worked as a “regular” scientist in a wet lab, mainly on **human tissue sample preparation and handling** for further tests (ELISA, flow cytometry, immunohistochemistry).
 
-An overview of my duties can be summarized as:
+An overview of my duties included:
 
-- clinical study site visits including **qualification**, **initiation**, **monitoring**, and **close-out** visits according to **GCP**, **GDPR**, and other relevant national legislation
-- writing of **clinical study protocols** with accompanying procedures and documents
+- clinical study site visits, including **qualification**, **initiation**, **monitoring**, and **close-out** visits according to **GCP**, **GDPR**, and other relevant national legislation
+- writing **clinical study protocols** with accompanying procedures and documents
 - **managing communication** between Clinical Investigators, clients, local regulatory authorities, and research teams
 - performing *in vitro* and *ex vivo* assays for drug development
 
 ### Sales and Applications Specialist for Life Science at Biomedica dijagnostika
 
-A new step in my career was an opportunity to **develop and expand** a research portfolio of [AddLife Group](https://www.add.life/en/). I started working for [Croatian subsidiary Biomedica dijagnostika Ltd.](https://www.bmgrp.hr/) of [Biomedica Group](https://www.bmgrp.com/) as a Sales and Application Specialist for **Life Science** portfolio. The main reason I took up this opportunity was a **challenge** to introduce new and cutting-edge technology in the competitive European market.
+A new step in my career was an opportunity to **develop and expand** a research portfolio of [AddLife Group](https://www.add.life/en/). As a Sales and Application Specialist for the Life Science portfolio, I started working for [the Croatian subsidiary Biomedica dijagnostika Ltd.](https://www.bmgrp.hr/) of [Biomedica Group](https://www.bmgrp.com/). The main reason I took up this opportunity was the **challenge of introducing** new and cutting-edge technology in the competitive European market.
 
-To be fair, nobody expected global pandemics of this size and scope, and certainly not the size and scope of the disruption it caused on global manufacturing and distribution chains. Furthermore, nobody expected industry-wide changes in the way the business is being done. All those changes made that challenge and the goals I set myself even harder to achieve. Given my previous experience and know-how coupled with the forward-looking team at Biomedica and AddLife, I'm happy to say that I achieved those goals and then some.
+Nobody expected a global pandemic of that size and scope, and certainly not the size and scope of the disruption it caused on worldwide manufacturing and distribution chains. Furthermore, nobody expected **industry-wide changes in how the business is being done**. All those changes made that challenge and the goals I set even harder to achieve. Given my previous experience and know-how, coupled with the forward-looking team at Biomedica and AddLife, I’m happy to say that I achieved those goals and then some.
 
-Similar to the position at Fidelta, both the portfolio I'm working in is diverse and includes a large number of manufacturers, and the clients I'm working with range from **small academic groups** across **public and private hospitals** to **pharmaceutical companies**. A **wide overview** of industry trends, **setting up commercial contracts**, and **following up** on successful sales projects is the most valuable experience I could hope to gain in this industry. That was one of the goals I set myself up back when I was joining Biomedica, as well.
+Similar to the position at Fidelta, my portfolio was diverse and included many manufacturers. The clients I worked with ranged from **small academic groups** across the public sector and **private hospitals** to **pharmaceutical companies**. A comprehensive overview of industry trends, **setting up commercial contracts**, and following up on successful sales projects is the most valuable experience I could gain in this industry. That was one of the goals I set myself up back when I was joining Biomedica.
 
-An overview of my duties can be summarized as:
+An overview of my duties included:
 
 - **regular meetings** with scientists, physicians, nurses, and other support members in the pharmaceutical industry, academia, public hospital systems, and private hospitals
 - participation in and organization of **congresses**
