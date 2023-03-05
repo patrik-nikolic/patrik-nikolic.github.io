@@ -51,6 +51,12 @@ My goal is to bring medicinal chemistry know-how of applications of artificial i
 
 The list of my thus far scientific publications can be found on [Web of Science](https://www.webofscience.com/wos/author/record/28345853) and [Google Scholar](https://scholar.google.com/citations?user=4sYRL_kAAAAJ).
 
+My contribution is acknowledged in the following journal paper:
+
+- Saftić Martinović, L., Birkić, N., Miletić, V., Antolović, R., Štanfel, D. & Wittine, K. [Antioxidant Activity, Stability in Aqueous Medium and Molecular Docking/Dynamics Study of 6-Amino- and N-Methyl-6-amino-L-ascorbic Acid.](https://www.mdpi.com/1422-0067/24/2/1410) Int. J. Mol. Sci. 24(2), 1410 (2023). [doi:10.3390/ijms24021410](https://doi.org/10.3390/ijms24021410)
+
+    > We wish to thank Patrik Nikolić ([BioRX Partners LLC](https://www.biorxpartners.com/)) for help in the conceptualization of the in silico workflow.
+
 ## Private Industry Career
 
 ### Translational Research Scientist at Fidelta
