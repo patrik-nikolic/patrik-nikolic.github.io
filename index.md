@@ -27,7 +27,7 @@ The group also published the journal paper:
 
 ### RxTx Research
 
-In 2019, [Dr. Vedran Miletić](https://vedran.miletic.net/) returned from his postdoctoral research in computational biophysics at [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/) in [Molecular Biomechanics (MBM) group](https://www.h-its.org/research/mbm/) to become a Senior Lecturer at the [University of Rijeka](https://uniri.hr/) [Department of Informatics](https://www.inf.uniri.hr/). We jointly started [RxTx](https://www.rxtx.tech/), where I entered as a translational research scientist. Our goal was to [advance pharmaceutical drug research by improving the scientific software behind the scenes](https://www.rxtx.tech/blog/rxtx-vision-and-outlook), most notably the high-throughput virtual screening engine [RxDock](https://rxdock.gitlab.io/). We also started using [RDKit](https://rdkit.org/) for data pre-processing at the same time.
+In 2019, [Dr. Vedran Miletić](https://vedran.miletic.net/) returned from his postdoctoral research in computational biophysics at [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/) in [Molecular Biomechanics (MBM) group](https://www.h-its.org/research/mbm/) to become a Senior Lecturer at the [University of Rijeka](https://uniri.hr/) [Department of Informatics](https://www.inf.uniri.hr/). We jointly started [RxTx Research](rxtxresearch.github.io/), where I entered as a translational research scientist. Our goal was to [advance pharmaceutical drug research by improving the scientific software behind the scenes](https://rxtxresearch.github.io/#motivation), most notably the high-throughput virtual screening engine [RxDock](https://rxdock.gitlab.io/). We also started using [RDKit](https://rdkit.org/) for data pre-processing at the same time.
 
 By then, the computational resources became more available, drivers necessary for using those resources more mature, and research topics more complex. Thus, the volume of data comprising research inputs and outputs grew exponentially, so we have employed end-to-end data science solutions, specifically [KNIME](https://www.knime.com/) for workflow automation and data analysis.
 
@@ -39,7 +39,7 @@ Dr. Vedran Miletić and I independently published another paper in collaboration
 
 - Miletić, V., **Nikolić, P.** & Kinkela, D. [Structure-based Molecular Docking in the Identification of Novel Inhibitors Targeting SARS-CoV-2 Main Protease](https://ieeexplore.ieee.org/document/9596660) in 2021 44th [International Convention on Information, Communication and Electronic Technology (MIPRO)](http://www.mipro.hr/), 435–440 (2021). [doi:10.23919/MIPRO52101.2021.9596660](https://doi.org/10.23919/MIPRO52101.2021.9596660).
 
-We also opened [a number of new collaborations with other groups worldwide](https://www.rxtx.tech/research).
+We also opened [a number of new collaborations with other groups worldwide](https://rxtxresearch.github.io/#people).
 
 ### Group for Applications and Services on Exascale Research Infrastructure
 
